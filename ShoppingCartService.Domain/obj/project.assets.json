@@ -5374,11 +5374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.Domain\\ShoppingCartService.Domain.csproj",
+      "projectUniqueName": "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.Domain\\ShoppingCartService.Domain.csproj",
       "projectName": "ShoppingCartService.Domain",
-      "projectPath": "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.Domain\\ShoppingCartService.Domain.csproj",
+      "projectPath": "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.Domain\\ShoppingCartService.Domain.csproj",
       "packagesPath": "C:\\Users\\semih\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.Domain\\obj\\",
+      "outputPath": "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5397,14 +5397,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.Core\\ShoppingCartService.Core.csproj": {
-              "projectPath": "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.Core\\ShoppingCartService.Core.csproj"
+            "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.Core\\ShoppingCartService.Core.csproj": {
+              "projectPath": "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.Core\\ShoppingCartService.Core.csproj"
             },
-            "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.Data\\ShoppingCartService.Data.csproj": {
-              "projectPath": "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.Data\\ShoppingCartService.Data.csproj"
+            "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.Data\\ShoppingCartService.Data.csproj": {
+              "projectPath": "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.Data\\ShoppingCartService.Data.csproj"
             },
-            "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.DomainModels\\ShoppingCartService.DomainModels.csproj": {
-              "projectPath": "D:\\Projects\\_netProjects\\ShoppingCartService\\ShoppingCartService.DomainModels\\ShoppingCartService.DomainModels.csproj"
+            "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.DomainModels\\ShoppingCartService.DomainModels.csproj": {
+              "projectPath": "D:\\Projects\\_netProjects\\_netCore\\ShoppingCartService\\shoppingcartservice\\ShoppingCartService.DomainModels\\ShoppingCartService.DomainModels.csproj"
             }
           }
         }

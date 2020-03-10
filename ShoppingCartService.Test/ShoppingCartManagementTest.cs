@@ -128,6 +128,8 @@ namespace ShoppingCartService.Test
 
             var shoppingCart = manager.GetShoppingCartByCustomerId(customerId);
 
+            Assert.IsNotNull(shoppingCart);
+
         }
 
         [TestMethod]

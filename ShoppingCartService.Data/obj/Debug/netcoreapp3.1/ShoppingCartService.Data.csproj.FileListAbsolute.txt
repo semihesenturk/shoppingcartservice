@@ -25,3 +25,13 @@ D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Data\obj\Debug\
 D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Data\obj\Debug\netcoreapp3.1\ShoppingCartService.Data.AssemblyInfo.cs
 D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Data\obj\Debug\netcoreapp3.1\ShoppingCartService.Data.dll
 D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Data\obj\Debug\netcoreapp3.1\ShoppingCartService.Data.pdb
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\bin\Debug\netcoreapp3.1\ShoppingCartService.Data.deps.json
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\bin\Debug\netcoreapp3.1\ShoppingCartService.Data.runtimeconfig.json
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\bin\Debug\netcoreapp3.1\ShoppingCartService.Data.runtimeconfig.dev.json
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\bin\Debug\netcoreapp3.1\ShoppingCartService.Data.dll
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\bin\Debug\netcoreapp3.1\ShoppingCartService.Data.pdb
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\obj\Debug\netcoreapp3.1\ShoppingCartService.Data.csprojAssemblyReference.cache
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\obj\Debug\netcoreapp3.1\ShoppingCartService.Data.AssemblyInfoInputs.cache
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\obj\Debug\netcoreapp3.1\ShoppingCartService.Data.AssemblyInfo.cs
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\obj\Debug\netcoreapp3.1\ShoppingCartService.Data.dll
+D:\Projects\_netProjects\_netCore\ShoppingCartService\shoppingcartservice\ShoppingCartService.Data\obj\Debug\netcoreapp3.1\ShoppingCartService.Data.pdb
