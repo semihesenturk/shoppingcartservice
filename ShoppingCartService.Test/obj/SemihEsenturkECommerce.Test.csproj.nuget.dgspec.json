@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Test\\SemihEsenturkECommerce.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Data\\SemihEsenturkECommerce.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Data\\SemihEsenturkECommerce.Data.csproj",
+        "projectName": "SemihEsenturkECommerce.Data",
+        "projectPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Data\\SemihEsenturkECommerce.Data.csproj",
+        "packagesPath": "C:\\Users\\semih.esenturk\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\semih.esenturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.DomainModels\\SemihEsenturkECommerce.DomainModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.DomainModels\\SemihEsenturkECommerce.DomainModels.csproj",
+        "projectName": "SemihEsenturkECommerce.DomainModels",
+        "projectPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.DomainModels\\SemihEsenturkECommerce.DomainModels.csproj",
+        "packagesPath": "C:\\Users\\semih.esenturk\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.DomainModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\semih.esenturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Domain\\SemihEsenturkECommerce.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Domain\\SemihEsenturkECommerce.Domain.csproj",
+        "projectName": "SemihEsenturkECommerce.Domain",
+        "projectPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Domain\\SemihEsenturkECommerce.Domain.csproj",
+        "packagesPath": "C:\\Users\\semih.esenturk\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\semih.esenturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Data\\SemihEsenturkECommerce.Data.csproj": {
+                "projectPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Data\\SemihEsenturkECommerce.Data.csproj"
+              },
+              "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.DomainModels\\SemihEsenturkECommerce.DomainModels.csproj": {
+                "projectPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.DomainModels\\SemihEsenturkECommerce.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Test\\SemihEsenturkECommerce.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Test\\SemihEsenturkECommerce.Test.csproj",
+        "projectName": "SemihEsenturkECommerce.Test",
+        "projectPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Test\\SemihEsenturkECommerce.Test.csproj",
+        "packagesPath": "C:\\Users\\semih.esenturk\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\semih.esenturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.DomainModels\\SemihEsenturkECommerce.DomainModels.csproj": {
+                "projectPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.DomainModels\\SemihEsenturkECommerce.DomainModels.csproj"
+              },
+              "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Domain\\SemihEsenturkECommerce.Domain.csproj": {
+                "projectPath": "C:\\Projects\\SemihEsenturkECommerce\\SemihEsenturkECommerce.Domain\\SemihEsenturkECommerce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

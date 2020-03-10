@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SemihEsenturkECommerce.API</name>
+    </assembly>
+    <members>
+        <member name="M:SemihEsenturkECommerce.Controllers.ShoppingCartController.AddProductToShoppingCart(SemihEsenturkECommerce.DomainModels.AddProductToShoppingCartModel)">
+            <summary>
+            Add product with quantity on current users shopping cart
+            </summary>
+            <param name="addProductToShoppingCartModel"></param>
+        </member>
+    </members>
+</doc>

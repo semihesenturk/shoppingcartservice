@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShoppingCartService.API</name>
+    </assembly>
+    <members>
+        <member name="M:SemihEsenturkECommerce.Controllers.ShoppingCartController.GetShoppingCartByCustomerId(System.Int32)">
+            <summary>
+            Get Shopping Cart by customer Id
+            </summary>
+            <param name="customerId"></param>
+        </member>
+        <member name="M:SemihEsenturkECommerce.Controllers.ShoppingCartController.AddProductToShoppingCart(SemihEsenturkECommerce.DomainModels.AddProductToShoppingCartModel)">
+            <summary>
+            Add product with quantity on current users shopping cart
+            </summary>
+            <param name="addProductToShoppingCartModel"></param>
+        </member>
+    </members>
+</doc>

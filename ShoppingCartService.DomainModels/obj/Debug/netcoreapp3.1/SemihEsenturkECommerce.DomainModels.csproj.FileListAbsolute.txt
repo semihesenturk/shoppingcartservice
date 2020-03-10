@@ -1,0 +1,15 @@
+D:\Projects\_netProjects\ciceksepeti\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\bin\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.deps.json
+D:\Projects\_netProjects\ciceksepeti\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\bin\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.dll
+D:\Projects\_netProjects\ciceksepeti\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\bin\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.pdb
+D:\Projects\_netProjects\ciceksepeti\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.AssemblyInfoInputs.cache
+D:\Projects\_netProjects\ciceksepeti\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.AssemblyInfo.cs
+D:\Projects\_netProjects\ciceksepeti\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.dll
+D:\Projects\_netProjects\ciceksepeti\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.pdb
+C:\Projects\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\bin\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.deps.json
+C:\Projects\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\bin\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.dll
+C:\Projects\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\bin\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.pdb
+C:\Projects\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.csprojAssemblyReference.cache
+C:\Projects\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.AssemblyInfoInputs.cache
+C:\Projects\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.AssemblyInfo.cs
+C:\Projects\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.dll
+C:\Projects\SemihEsenturkECommerce\SemihEsenturkECommerce.DomainModels\obj\Debug\netcoreapp3.1\SemihEsenturkECommerce.DomainModels.pdb

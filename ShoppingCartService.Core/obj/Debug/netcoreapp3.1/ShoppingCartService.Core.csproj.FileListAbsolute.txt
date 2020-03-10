@@ -1,0 +1,14 @@
+C:\Projects\ShoppingCartService\ShoppingCartService.Core\bin\Debug\netcoreapp3.1\ShoppingCartService.Core.deps.json
+C:\Projects\ShoppingCartService\ShoppingCartService.Core\bin\Debug\netcoreapp3.1\ShoppingCartService.Core.dll
+C:\Projects\ShoppingCartService\ShoppingCartService.Core\bin\Debug\netcoreapp3.1\ShoppingCartService.Core.pdb
+C:\Projects\ShoppingCartService\ShoppingCartService.Core\obj\Debug\netcoreapp3.1\ShoppingCartService.Core.AssemblyInfoInputs.cache
+C:\Projects\ShoppingCartService\ShoppingCartService.Core\obj\Debug\netcoreapp3.1\ShoppingCartService.Core.AssemblyInfo.cs
+C:\Projects\ShoppingCartService\ShoppingCartService.Core\obj\Debug\netcoreapp3.1\ShoppingCartService.Core.dll
+C:\Projects\ShoppingCartService\ShoppingCartService.Core\obj\Debug\netcoreapp3.1\ShoppingCartService.Core.pdb
+D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Core\bin\Debug\netcoreapp3.1\ShoppingCartService.Core.deps.json
+D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Core\bin\Debug\netcoreapp3.1\ShoppingCartService.Core.dll
+D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Core\bin\Debug\netcoreapp3.1\ShoppingCartService.Core.pdb
+D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Core\obj\Debug\netcoreapp3.1\ShoppingCartService.Core.AssemblyInfoInputs.cache
+D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Core\obj\Debug\netcoreapp3.1\ShoppingCartService.Core.AssemblyInfo.cs
+D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Core\obj\Debug\netcoreapp3.1\ShoppingCartService.Core.dll
+D:\Projects\_netProjects\ShoppingCartService\ShoppingCartService.Core\obj\Debug\netcoreapp3.1\ShoppingCartService.Core.pdb
